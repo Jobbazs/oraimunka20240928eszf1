@@ -4,7 +4,7 @@ import negyedik
 import hatodik
 import tizenegyedik
 import tizenhat
-
+import elagazasokminta
 
 
 #print("szia")
@@ -13,4 +13,6 @@ import tizenhat
 
 #hatodik.hatosFeladat()
 #tizenegyedik.tizenegyedikFeladat()
-tizenhat.tizenhatodikFeladat()
+#tizenhat.tizenhatodikFeladat()
+#elagazasokminta.elso()
+elagazasokminta.masodik()
